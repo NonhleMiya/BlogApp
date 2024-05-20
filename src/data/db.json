@@ -1,0 +1,22 @@
+{
+    "blogs": [
+      {
+        "title": "Blog 1",
+        "body": "My first Blog\nLorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet, elit sit amet blandit lacinia, velit ex fringilla urna, non pellentesque augue leo sed ipsum. Mauris ac scelerisque diam. Suspendisse potenti. Nulla euismod porta rhoncus. Aliquam id erat feugiat, aliquam massa sed, lacinia felis. Donec finibus porttitor orci at viverra. Mauris efficitur accumsan mi, non interdum dui volutpat at. Pellentesque pulvinar egestas dolor, ut scelerisque lacus vestibulum vel. Duis consequat euismod venenatis. Aliquam lobortis magna fermentum lorem ultricies elementum. Integer elementum tortor eget risus placerat, et ultricies dolor porta. In et justo et dui semper vehicula eu ut magna. Praesent a libero nec nisl efficitur consequat.",
+        "author": "Namisa",
+        "id": 1
+      },
+      {
+        "title": "Blog 2",
+        "body": "My first ever blog\nMorbi cursus eget massa et sagittis. Pellentesque id lectus tortor. Fusce elementum, enim quis porttitor semper, leo sapien consectetur justo, et rutrum felis lectus eu augue. Nunc egestas, risus at tristique hendrerit, purus erat mollis enim, at suscipit augue ante in tortor. Etiam at tortor porttitor, rhoncus nunc vel, accumsan tortor. Etiam non enim sit amet erat vehicula cursus vitae id mi. Proin eu elit quis nulla accumsan tincidunt eget vel odio. Ut et arcu luctus, faucibus erat sed, aliquam sapien. Nullam vitae cursus neque. Pellentesque efficitur urna non enim suscipit efficitur. Sed pulvinar porta faucibus. Mauris luctus est eu finibus facilisis. Pellentesque vel ex lacus. Mauris dui ex, euismod id tortor pharetra, tristique condimentum arcu. Suspendisse malesuada, neque quis sollicitudin sodales, dolor neque rhoncus nunc, at convallis arcu urna in tortor.",
+        "author": "Nonhle",
+        "id": 2
+      },
+      {
+        "title": "Blog 3",
+        "body": "My first blog post\nDonec sit amet justo felis. Nam eros libero, vestibulum vel metus non, faucibus vestibulum velit. Fusce vel molestie purus, ut aliquam mi. Ut quis sapien sem. Ut nec risus non turpis maximus commodo. Curabitur vehicula metus eu metus venenatis, vitae tempor ligula volutpat. Aliquam euismod ex non mi tristique, eget porta purus tristique. Sed nec turpis sed dui fringilla gravida. Aliquam pharetra porttitor nunc, sit amet varius nunc dapibus eu. Vivamus pulvinar commodo rutrum.",
+        "author": "Mthoko",
+        "id": 3
+      }
+    ]
+  }
